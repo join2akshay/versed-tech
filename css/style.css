@@ -2253,6 +2253,11 @@ img {
 	max-height: 350px;
 
 }
+.swiper-container{
+
+	background: url(https://images.squarespace-cdn.com/content/56e88be2746fb97fd1a9dfa5/1492885974855-KZBAE5FOX3NKF2ITUKKU/gray-geometric-background+.jpg?format=1500w&content-type=image%2Fjpeg);
+
+}
 .img-responsive {
 	width: 100%;
 }
